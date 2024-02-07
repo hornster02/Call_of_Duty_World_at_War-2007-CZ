@@ -1,6 +1,11 @@
 2016-07, STEAM
+<br/>
+Velikost 43MB https://drive.google.com/drive/folders/16AfywZzNFl6_-Ff1znahqZGrzMNe6Zwf
 
-Čeština vytažena z originální verze a vyzkoušena na STEAM verzi
-V SP chybí přeložen seznam úkolů, proto je velikost souboru 191MB místo původních cca 1,6GB
+Postup
+<br/>
+-aplikovat CZ patch
+<br/>
+-nakopírovat obsah složky "_CZ-PART2" do hry
 
-https://drive.google.com/drive/folders/16AfywZzNFl6_-Ff1znahqZGrzMNe6Zwf
+V SP chybí přeložen seznam úkolů (Seek & Destroy), proto je velikost souboru 43MB místo původních +-1,6GB
